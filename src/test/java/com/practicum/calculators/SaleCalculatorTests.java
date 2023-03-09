@@ -1,8 +1,8 @@
-package ru.yandex.practicum.calculators;
+package com.practicum.calculators;
 
 import org.junit.jupiter.api.Test;
-import ru.yandex.practicum.exceptions.IncorrectDiscountException;
-import ru.yandex.practicum.exceptions.IncorrectFinalPriceException;
+import com.practicum.exceptions.IncorrectDiscountException;
+import com.practicum.exceptions.IncorrectFinalPriceException;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;

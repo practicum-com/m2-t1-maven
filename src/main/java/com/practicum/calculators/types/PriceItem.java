@@ -1,4 +1,4 @@
-package ru.yandex.practicum.calculators.types;
+package com.practicum.calculators.types;
 
 public class PriceItem {
     private String name;

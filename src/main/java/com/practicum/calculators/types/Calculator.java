@@ -1,6 +1,6 @@
-package ru.yandex.practicum.calculators.types;
+package com.practicum.calculators.types;
 
-import ru.yandex.practicum.calculators.PriceCalculator;
+import com.practicum.calculators.PriceCalculator;
 
 public class Calculator {
     private final PriceCalculator calculator;

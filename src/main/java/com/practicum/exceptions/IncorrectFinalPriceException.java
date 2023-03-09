@@ -1,4 +1,4 @@
-package ru.yandex.practicum.exceptions;
+package com.practicum.exceptions;
 
 public class IncorrectFinalPriceException extends Exception {
     public IncorrectFinalPriceException(final String message) {

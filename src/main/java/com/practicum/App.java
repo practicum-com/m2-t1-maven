@@ -1,8 +1,8 @@
-package ru.yandex.practicum;
+package com.practicum;
 
-import ru.yandex.practicum.calculators.CalculatorsLoader;
-import ru.yandex.practicum.calculators.types.Calculator;
-import ru.yandex.practicum.exceptions.IncorrectFinalPriceException;
+import com.practicum.calculators.CalculatorsLoader;
+import com.practicum.calculators.types.Calculator;
+import com.practicum.exceptions.IncorrectFinalPriceException;
 
 import java.util.List;
 import java.util.Scanner;

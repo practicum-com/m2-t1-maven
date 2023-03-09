@@ -1,9 +1,9 @@
-package ru.yandex.practicum.calculators;
+package com.practicum.calculators;
 
 import com.google.gson.Gson;
-import ru.yandex.practicum.calculators.types.Calculator;
-import ru.yandex.practicum.calculators.types.PriceInformation;
-import ru.yandex.practicum.exceptions.IncorrectDiscountException;
+import com.practicum.calculators.types.Calculator;
+import com.practicum.calculators.types.PriceInformation;
+import com.practicum.exceptions.IncorrectDiscountException;
 
 import java.io.InputStream;
 import java.io.InputStreamReader;

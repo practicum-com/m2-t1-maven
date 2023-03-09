@@ -1,4 +1,4 @@
-package ru.yandex.practicum.exceptions;
+package com.practicum.exceptions;
 
 public class IncorrectDiscountException extends Exception {
     public IncorrectDiscountException(final String message) {

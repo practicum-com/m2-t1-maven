@@ -1,7 +1,7 @@
-package ru.yandex.practicum.calculators;
+package com.practicum.calculators;
 
-import ru.yandex.practicum.exceptions.IncorrectDiscountException;
-import ru.yandex.practicum.exceptions.IncorrectFinalPriceException;
+import com.practicum.exceptions.IncorrectDiscountException;
+import com.practicum.exceptions.IncorrectFinalPriceException;
 
 class SaleCalculator implements PriceCalculator {
     private final int discount;

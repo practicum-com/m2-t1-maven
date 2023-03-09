@@ -1,7 +1,7 @@
-package ru.yandex.practicum.calculators;
+package com.practicum.calculators;
 
-import ru.yandex.practicum.calculators.types.Calculator;
-import ru.yandex.practicum.exceptions.IncorrectDiscountException;
+import com.practicum.calculators.types.Calculator;
+import com.practicum.exceptions.IncorrectDiscountException;
 
 public class CalculatorsFactory {
     public static DiscountCalculator makeNewDiscount(

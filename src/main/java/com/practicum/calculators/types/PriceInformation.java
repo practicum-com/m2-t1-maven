@@ -1,4 +1,4 @@
-package ru.yandex.practicum.calculators.types;
+package com.practicum.calculators.types;
 
 import java.util.List;
 

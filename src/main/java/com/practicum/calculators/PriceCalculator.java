@@ -1,6 +1,6 @@
-package ru.yandex.practicum.calculators;
+package com.practicum.calculators;
 
-import ru.yandex.practicum.exceptions.IncorrectFinalPriceException;
+import com.practicum.exceptions.IncorrectFinalPriceException;
 
 public interface PriceCalculator {
     double calculateFinalPrice(double price) throws IncorrectFinalPriceException;
